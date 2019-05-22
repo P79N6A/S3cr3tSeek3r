@@ -2,9 +2,9 @@
 S3cr3tSeek3r V.1
 
 Need to install (tested on Ubuntu)
-sudo apt install gir1.2-appindicator3-0.1 gir1.2-notify-0.7 python-gobject
-sudo apt install curl whois geoip
-sudo apt install python3-dev  python-dev python3-bs4 python3-setuptools
+* **sudo apt install gir1.2-appindicator3-0.1 gir1.2-notify-0.7 python-gobject
+* **sudo apt install curl whois geoip
+* **sudo apt install python3-dev  python-dev python3-bs4 python3-setuptools
 
 For OPENVPN Proxy !!!
 
