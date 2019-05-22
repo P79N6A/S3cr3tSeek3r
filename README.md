@@ -2,9 +2,9 @@
 S3cr3tSeek3r V.1
 
 Need to install (tested on Ubuntu)
-* **sudo apt install gir1.2-appindicator3-0.1 gir1.2-notify-0.7 python-gobject
-* **sudo apt install curl whois geoip
-* **sudo apt install python3-dev  python-dev python3-bs4 python3-setuptools
+* *sudo apt install gir1.2-appindicator3-0.1 gir1.2-notify-0.7 python-gobject
+* *sudo apt install curl whois geoip
+* *sudo apt install python3-dev  python-dev python3-bs4 python3-setuptools
 
 For OPENVPN Proxy !!!
 
@@ -14,9 +14,9 @@ For OPENVPN Proxy !!!
 * **wmctrl**: ```$ sudo apt-get install wmctrl```, for `Indicator` of `tui` version, use for focusing window from indicator.
 
 # How to use:
-*[+] !!!ALWAYS RUN ALL COMMANDS WITH SUDO!!!
-*[+] Execute S3cr3tSeek3r.sh in terminal 
-*[+] Then open a new terminal And RUN1.sh this will setup a PROXY Server for own protection
-*[+] Next When RUN1.sh was executed open NEW terminal and run CHECKIP1.sh to confirm your new IP
-*[+] When ABOVE STEPS ARE COMPLETED , HIT ENTER .... ENJOY SEARCHING!!!
+* **[+] !!!ALWAYS RUN ALL COMMANDS WITH SUDO!!!
+* **[+] Execute S3cr3tSeek3r.sh in terminal 
+* **[+] Then open a new terminal And RUN1.sh this will setup a PROXY Server for own protection
+* **[+] Next When RUN1.sh was executed open NEW terminal and run CHECKIP1.sh to confirm your new IP
+* **[+] When ABOVE STEPS ARE COMPLETED , HIT ENTER .... ENJOY SEARCHING!!!
 
