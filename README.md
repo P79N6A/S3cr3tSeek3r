@@ -11,8 +11,8 @@ For OPENVPN Proxy !!!
 * **wmctrl**: ```$ sudo apt-get install wmctrl```, for `Indicator` of `tui` version, use for focusing window from indicator.
 
 # How to use:
-[+] !!!ALWAYS RUN ALL COMMANDS WITH SUDO!!!
-[+] Execute S3cr3tSeek3r.sh in terminal 
-[+] Then open a new terminal And RUN1.sh this will setup a PROXY Server for own protection
-[+] Next When RUN1.sh was executed open NEW terminal and run CHECKIP1.sh to confirm your new IP
-[+] When ABOVE STEPS ARE COMPLETED , HIT ENTER .... ENJOY SEARCHING!!!
+* [+] !!!ALWAYS RUN ALL COMMANDS WITH SUDO!!!
+* [+] Execute  ```S3cr3tSeek3r.sh ``` in terminal 
+* [+] Then open a new terminal And  ```RUN1.sh ``` this will setup a PROXY Server for own protection
+* [+] Next When RUN1.sh was executed open NEW terminal and run  ```CHECKIP1.sh ``` to confirm your new IP
+* [+] When ABOVE STEPS ARE COMPLETED , HIT ENTER .... ENJOY SEARCHING!!!
