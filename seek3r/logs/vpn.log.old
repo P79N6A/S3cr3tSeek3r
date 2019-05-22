@@ -1,0 +1,15 @@
+----------------------------------------
+Wed May 22 14:25:59 2019: Vpngate with proxy is started
+ using gate: http://www.vpngate.net
+ConnectionTimeout
+ Connection to gate http://www.vpngate.net failed
+ using gate: http://p76ed4cd5.tokynt01.ap.so-net.ne.jp:16169
+ConnectionTimeout
+ Connection to gate http://p76ed4cd5.tokynt01.ap.so-net.ne.jp:16169 failed
+ using gate: http://103.1.249.67:29858
+ConnectionTimeout
+ Connection to gate http://103.1.249.67:29858 failed
+ using gate: http://211.217.242.42:3230
+ConnectionTimeout
+ Connection to gate http://211.217.242.42:3230 failed
+ using gate: http://zp018093.ppp.dion.ne.jp:36205
